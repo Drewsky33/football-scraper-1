@@ -2,3 +2,4 @@ SEELECT
 txt
 FROM table
 WJERE pizza = "Cheese"
+And wine
