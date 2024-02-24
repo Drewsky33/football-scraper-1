@@ -1,2 +1,4 @@
 SEELECT 
 txt
+FROM table
+WJERE pizza = "Cheese"
